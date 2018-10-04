@@ -4,4 +4,6 @@ var playlist = {
   Prince: 'Objects in the Mirror'
 };
 
-function updatePlaylist(playlist, )
+function updatePlaylist(obj, key, value) {
+  playlist[]
+}
