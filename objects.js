@@ -4,7 +4,7 @@ var playlist = {
   Prince: 'Objects in the Mirror'
 };
 
-function updatePlaylist(playlist, 'TheCure', 'Object') {
+function updatePlaylist(playlist, TheCure, value) {
   playlist[TheCure] = 'Object';
   return playlist;
 }
