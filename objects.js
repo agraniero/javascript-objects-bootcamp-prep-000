@@ -4,7 +4,6 @@ var playlist = {
   Prince: 'Objects in the Mirror'
 };
 
-function updatePlaylist(obj, key, value) {
-  playlist[TheCure] = 'Object';
-  return playlist;
+function updatePlaylist(playlist, artistName, songTitle) {
+  return Object.assign({}, obj, {playlist [TheCure]} = 'Object'
 }
