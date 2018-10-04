@@ -5,5 +5,6 @@ var playlist = {
 };
 
 function updatePlaylist(obj, key, value) {
-  playlist[]
+  playlist[TheCure] = 'Object';
+  return playlist;
 }
