@@ -1,3 +1,4 @@
 var playlist = {
-  ufo: 'Unidentified Flying Object'
+  UFO: 'Unidentified Flying Object',
+  
 }
